@@ -58,7 +58,7 @@ function App() {
       
       </main>
 
-      <div className="circle" id='circle1'>
+        <div className="circle" id='circle1'>
 
         </div>
         <div className="circle" id='circle2'>
