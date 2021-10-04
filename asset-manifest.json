@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Card-Responsive/static/css/main.5f53937a.chunk.css",
+    "main.js": "/Card-Responsive/static/js/main.4929a14f.chunk.js",
+    "main.js.map": "/Card-Responsive/static/js/main.4929a14f.chunk.js.map",
+    "runtime-main.js": "/Card-Responsive/static/js/runtime-main.e772e383.js",
+    "runtime-main.js.map": "/Card-Responsive/static/js/runtime-main.e772e383.js.map",
+    "static/js/2.3351d06a.chunk.js": "/Card-Responsive/static/js/2.3351d06a.chunk.js",
+    "static/js/2.3351d06a.chunk.js.map": "/Card-Responsive/static/js/2.3351d06a.chunk.js.map",
+    "index.html": "/Card-Responsive/index.html",
+    "static/css/main.5f53937a.chunk.css.map": "/Card-Responsive/static/css/main.5f53937a.chunk.css.map",
+    "static/js/2.3351d06a.chunk.js.LICENSE.txt": "/Card-Responsive/static/js/2.3351d06a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Card-Responsive/static/media/avatarCard.e6fa47bf.jpg",
+    "static/media/backgroundCard.542ef7cf.jpg": "/Card-Responsive/static/media/backgroundCard.542ef7cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e772e383.js",
+    "static/js/2.3351d06a.chunk.js",
+    "static/css/main.5f53937a.chunk.css",
+    "static/js/main.4929a14f.chunk.js"
+  ]
+}
